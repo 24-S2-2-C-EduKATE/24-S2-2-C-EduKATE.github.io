@@ -29,7 +29,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/24-S2-2-C-EduKATE'
   },
-  docsRepositoryBase: 'https://github.com/24-S2-2-C-EduKATE/24-S2-2-C-EduKATE.github.io',
+  docsRepositoryBase: 'https://github.com/24-S2-2-C-EduKATE/24-S2-2-C-EduKATE.github.io/tree/main',
   useNextSeoProps() {
     const { asPath } = useRouter()
     if (asPath !== '/') {

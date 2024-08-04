@@ -1,0 +1,16 @@
+name: Reflection Report
+description: Share your reflections and insights.
+title: "[Reflection]: "
+labels: ["reflection"]
+projects: ["reflections"]
+assignees: []
+body:
+  - type: textarea
+    id: reflection
+    attributes:
+      label: Reflection
+      description: Share your insights or observations.
+      placeholder: Describe your reflections here.
+      value: "Your reflections here."
+    validations:
+      required: true

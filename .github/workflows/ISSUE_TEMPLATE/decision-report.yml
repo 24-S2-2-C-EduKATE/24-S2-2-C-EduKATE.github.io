@@ -1,0 +1,24 @@
+name: Decision Report
+description: Record a project decision.
+title: "[Decision]: "
+labels: ["decision"]
+projects: ["decisions"]
+assignees: []
+body:
+  - type: textarea
+    id: decision-description
+    attributes:
+      label: Decision Description
+      description: Describe the decision here.
+      placeholder: Describe the decision here.
+      value: "Decision description here."
+    validations:
+      required: true
+  - type: checkboxes
+    id: resolved
+    attributes:
+      label: resolved
+      description: Is this decision resolved?
+      options:
+        - label: resolved?
+          required: true

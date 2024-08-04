@@ -1,0 +1,42 @@
+name: Meeting Minutes
+description: Record the minutes of a meeting.
+title: "[Meeting Minutes]: "
+labels: ["minutes"]
+projects: ["meetings"]
+assignees: []
+body:
+  - type: input
+    id: date
+    attributes:
+      label: Meeting Date
+      description: Date of the meeting.
+      placeholder: ex. YYYY-MM-DD
+    validations:
+      required: true
+  - type: textarea
+    id: attendees
+    attributes:
+      label: Attendees
+      description: List of attendees.
+      placeholder: List of attendees here.
+      value: "Attendee list here."
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Summary of the meeting notes and discussions.
+      placeholder: Meeting notes here.
+      value: "Meeting notes here."
+    validations:
+      required: true
+  - type: textarea
+    id: action-items
+    attributes:
+      label: Action Items
+      description: List of follow-up actions.
+      placeholder: Action items here.
+      value: "Action items here."
+    validations:
+      required: true

@@ -1,0 +1,37 @@
+name: Feature Request
+description: Submit a request for a new feature or enhancement.
+title: "[Feature Request]: "
+labels: ["feature"]
+projects: []
+assignees: []
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Describe the feature or enhancement you are requesting.
+      placeholder: Describe the feature here.
+      value: "Feature description here."
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Low
+        - Medium
+        - High (Default)
+      default: 2
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: How will this feature be used or why is it needed?
+      placeholder: Describe the use case here.
+      value: "Use case description here."
+    validations:
+      required: true
