@@ -3,7 +3,8 @@ description: Report a bug.
 title: "[Bug]: "
 labels: ["bugs"]
 projects: []
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: textarea
     id: description

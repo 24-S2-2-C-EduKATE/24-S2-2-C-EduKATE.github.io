@@ -3,7 +3,8 @@ description: Submit your feedback or suggestions.
 title: "[Feedback]: "
 labels: ["feedback"]
 projects: ["feedbacks"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: textarea
     id: feedback

@@ -3,7 +3,8 @@ description: Record the minutes of a meeting.
 title: "[Meeting Minutes]: "
 labels: ["minutes"]
 projects: ["meetings"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: input
     id: date

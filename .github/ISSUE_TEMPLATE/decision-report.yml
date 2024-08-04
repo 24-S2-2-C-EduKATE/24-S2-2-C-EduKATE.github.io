@@ -3,7 +3,8 @@ description: Record a project decision.
 title: "[Decision]: "
 labels: ["decision"]
 projects: ["decisions"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: textarea
     id: decision-description

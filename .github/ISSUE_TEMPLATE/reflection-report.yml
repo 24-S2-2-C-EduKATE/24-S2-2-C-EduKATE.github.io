@@ -3,7 +3,8 @@ description: Share your reflections and insights.
 title: "[Reflection]: "
 labels: ["reflection"]
 projects: ["reflections"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: textarea
     id: reflection

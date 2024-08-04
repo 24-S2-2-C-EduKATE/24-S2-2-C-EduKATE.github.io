@@ -3,7 +3,8 @@ description: Report a potential risk to the project.
 title: "[Risk]: "
 labels: ["risk"]
 projects: ["risks"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: textarea
     id: description
