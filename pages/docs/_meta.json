@@ -2,9 +2,13 @@
   "index": "Introduction",
   "team-charter": "Team Charter",
   "statement-of-work": "Statement Of Work",
+  "risks": "Risks",
+  "decisions": "Decisions",
+  "feedbacks": "Feedback",
+  "reflections": "Reflections",
   "-- Meetings": {
     "type": "separator",
-    "title": "Meetings"
+    "title": "Meetings (TBD)"
   },
   "-- More": {
     "type": "separator",
