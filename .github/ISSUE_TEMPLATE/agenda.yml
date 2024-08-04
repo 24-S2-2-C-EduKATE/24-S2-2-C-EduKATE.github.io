@@ -3,7 +3,8 @@ description: Plan the agenda for an upcoming meeting.
 title: "[Agenda]: "
 labels: ["agenda"]
 projects: ["meetings"]
-assignees: []
+assignees:
+  - SampleAssignee
 body:
   - type: input
     id: date
