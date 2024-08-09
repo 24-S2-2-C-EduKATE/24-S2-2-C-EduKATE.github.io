@@ -13,8 +13,6 @@ body:
       description: Provide your feedback or suggestion.
       placeholder: Describe your feedback here.
       value: "Your feedback here."
-    validations:
-      required: true
   - type: dropdown
     id: impact
     attributes:
@@ -25,5 +23,3 @@ body:
         - Medium
         - High (Default)
       default: 2
-    validations:
-      required: true

@@ -12,8 +12,6 @@ body:
       label: Meeting Date
       description: Date of the meeting.
       placeholder: ex. YYYY-MM-DD
-    validations:
-      required: true
   - type: textarea
     id: topics
     attributes:
@@ -21,8 +19,6 @@ body:
       description: List the topics that will be discussed during the meeting.
       placeholder: List the topics here.
       value: "Topic 1: ...\nTopic 2: ..."
-    validations:
-      required: true
   - type: textarea
     id: additional-info
     attributes:
@@ -30,5 +26,3 @@ body:
       description: Any other relevant information or instructions for the meeting.
       placeholder: Include any additional details here.
       value: "Additional information here."
-    validations:
-      required: false

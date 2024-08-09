@@ -13,5 +13,3 @@ body:
       description: Share your insights or observations.
       placeholder: Describe your reflections here.
       value: "Your reflections here."
-    validations:
-      required: true

@@ -22,4 +22,3 @@ body:
       description: Is this decision resolved?
       options:
         - label: resolved?
-          required: true

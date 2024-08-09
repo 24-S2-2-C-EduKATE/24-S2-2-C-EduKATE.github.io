@@ -12,8 +12,6 @@ body:
       label: Meeting Date
       description: Date of the meeting.
       placeholder: ex. YYYY-MM-DD
-    validations:
-      required: true
   - type: textarea
     id: attendees
     attributes:
@@ -21,8 +19,6 @@ body:
       description: List of attendees.
       placeholder: List of attendees here.
       value: "Attendee list here."
-    validations:
-      required: true
   - type: textarea
     id: notes
     attributes:
@@ -30,8 +26,6 @@ body:
       description: Summary of the meeting notes and discussions.
       placeholder: Meeting notes here.
       value: "Meeting notes here."
-    validations:
-      required: true
   - type: textarea
     id: action-items
     attributes:
@@ -39,5 +33,3 @@ body:
       description: List of follow-up actions.
       placeholder: Action items here.
       value: "Action items here."
-    validations:
-      required: true

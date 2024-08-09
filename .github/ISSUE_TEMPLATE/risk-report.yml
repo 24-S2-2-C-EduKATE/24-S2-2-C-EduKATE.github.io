@@ -13,8 +13,6 @@ body:
       description: Describe the potential risk.
       placeholder: Describe the risk here.
       value: "A potential risk was identified."
-    validations:
-      required: true
   - type: dropdown
     id: likelihood
     attributes:
@@ -25,8 +23,6 @@ body:
         - Medium
         - High (Default)
       default: 2
-    validations:
-      required: true
   - type: dropdown
     id: severity
     attributes:
@@ -37,5 +33,3 @@ body:
         - Moderate
         - Critical (Default)
       default: 2
-    validations:
-      required: true
