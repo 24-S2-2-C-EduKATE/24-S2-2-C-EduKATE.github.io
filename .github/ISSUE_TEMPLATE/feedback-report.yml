@@ -2,7 +2,7 @@ name: Feedback Report
 description: Submit your feedback or suggestions.
 title: "[Feedback]: "
 labels: ["feedback"]
-projects: ["feedbacks"]
+projects: ["feedback"]
 assignees:
   - SampleAssignee
 body:
