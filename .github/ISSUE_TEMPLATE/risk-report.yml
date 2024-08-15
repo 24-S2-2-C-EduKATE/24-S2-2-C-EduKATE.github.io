@@ -2,7 +2,7 @@ name: Risk Report
 description: Report a potential risk to the project.
 title: "[Risk]: "
 labels: ["risk"]
-projects: ["24-S2-2-C-EduKATE/risks"]
+projects: ["24-S2-2-C-EduKATE/6"]
 assignees:
   - SampleAssignee
 body:

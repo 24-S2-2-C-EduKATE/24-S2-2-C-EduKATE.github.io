@@ -2,7 +2,7 @@ name: Meeting Minutes
 description: Record the minutes of a meeting.
 title: "[Meeting Minutes]: "
 labels: ["minutes"]
-projects: ["24-S2-2-C-EduKATE/meetings"]
+projects: ["24-S2-2-C-EduKATE/1"]
 assignees:
   - SampleAssignee
 body:

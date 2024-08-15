@@ -2,7 +2,7 @@ name: Feature Request
 description: Submit a request for a new feature or enhancement.
 title: "[Feature Request]: "
 labels: ["feature"]
-projects: ["24-S2-2-C-EduKATE/features"]
+projects: ["24-S2-2-C-EduKATE/4"]
 assignees:
   - SampleAssignee
 body:

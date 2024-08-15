@@ -2,7 +2,7 @@ name: Decision Report
 description: Record a project decision.
 title: "[Decision]: "
 labels: ["decision"]
-projects: ["24-S2-2-C-EduKATE/decisions"]
+projects: ["24-S2-2-C-EduKATE/3"]
 assignees:
   - SampleAssignee
 body:

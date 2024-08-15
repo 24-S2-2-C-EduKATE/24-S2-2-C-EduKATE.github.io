@@ -2,7 +2,7 @@ name: Meeting Agenda
 description: Plan the agenda for an upcoming meeting.
 title: "[Agenda]: "
 labels: ["agenda"]
-projects: ["24-S2-2-C-EduKATE/meetings"]
+projects: ["24-S2-2-C-EduKATE/1"]
 assignees:
   - SampleAssignee
 body:
