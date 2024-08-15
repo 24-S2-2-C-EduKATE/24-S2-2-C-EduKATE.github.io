@@ -2,7 +2,7 @@ name: Reflection Report
 description: Share your reflections and insights.
 title: "[Reflection]: "
 labels: ["reflection"]
-projects: ["reflections"]
+projects: ["24-S2-2-C-EduKATE/reflections"]
 assignees:
   - SampleAssignee
 body:
