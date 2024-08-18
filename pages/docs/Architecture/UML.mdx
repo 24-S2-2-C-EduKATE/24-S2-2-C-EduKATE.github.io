@@ -1,46 +1,7 @@
-import Image from 'next/image'
+import {EmbeddedComponent} from "@components/embeddedComponent"
 
+## UML
 
-# UML Diagram - EduKATE System
-
-<Image src="/images/UML.png" alt="UML diagram" width="1000" height="1000"/>
-
-## User Interface Interaction (UI Module)
-- **AccountUI**: Users log in or register through this interface.
-- **Coding Interfaces**: Users write or select code through various coding interfaces:
-  - `PictureBlockUI`
-  - `WordBlockUI`
-  - `TextCodingUI`
-
-## Code Execution
-- **Execute Code**: After completing the code writing or selection, the user clicks the execute button, which calls the `executeCode()` method.
-
-## Sending Commands to the Controller (Controllers Module)
-- **ActionController**: Translates the user's actions from the coding interface into commands and sends them to the `ActionController`.
-
-## Action Execution (Actions Module)
-- **ActionController**:
-  - Receives the command.
-  - Creates an instance of the corresponding subclass of `BaseAction` (e.g., `MoveForwardAction`).
-  - Calls the `execute()` method of the action instance to perform the action.
-
-## Updating Model State (Models Module)
-- **BaseAction**:
-  - Calls relevant methods of `RobotDog` (e.g., `moveForward()`) to update the robot dog's state.
-- **Chessboard**:
-  - Updates the display of the chessboard if necessary by calling the `render()` method.
-
-## User Interface Update (UI Module)
-- **ChessboardUI**: Triggers a redraw to present the updated state of the chessboard to the user.
-
-## Hardware Communication (Hardware Module)
-- **ArduinoInterface**: Converts the action into a command that the hardware can understand and sends it via the `sendCommand()` method.
-
-## Hardware Action Execution
-- **Hardware (e.g., Arduino)**: Receives the command, parses it, and performs the corresponding hardware operations (e.g., driving the robot dog to move or turn).
-
-## Technology Stack
-- **Language**: Python
-- **Frontend**: PyQt
-- **Backend**: Modular
+[Link](https://docs.google.com/document/d/1Yxa5s26W59lKA1wmtnB2N-1XIJwW80ho/edit?usp=sharing&ouid=105494760516855677949&rtpof=true&sd=true)
+<EmbeddedComponent link={"https://docs.google.com/document/d/1Yxa5s26W59lKA1wmtnB2N-1XIJwW80ho/pub?embedded=true"} />
 
