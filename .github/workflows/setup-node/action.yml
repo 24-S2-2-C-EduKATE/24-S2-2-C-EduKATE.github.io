@@ -4,11 +4,13 @@ runs:
   using: "composite"
   steps:
     - name: Setup Node.js ⚙️
+      working-directory: ./landing page
       uses: actions/setup-node@v4
       with:
         node-version: 20
 
     - name: Cache dependencies ⚡
+      working-directory: ./landing page
       id: cache_dependencies
       uses: actions/cache@v3
       with:
@@ -16,6 +18,7 @@ runs:
         key: node-modules-${{ hashFiles('package-lock.json') }}
 
     - name: Install dependencies 🔧
+      working-directory: ./landing page
       shell: bash
       if: steps.cache_dependencies.outputs.cache-hit != 'true'
       run: npm ci
