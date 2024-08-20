@@ -9,7 +9,6 @@ runs:
         node-version: 20
 
     - name: Cache dependencies ⚡
-      working-directory: ./landing-page
       id: cache_dependencies
       uses: actions/cache@v3
       with:
