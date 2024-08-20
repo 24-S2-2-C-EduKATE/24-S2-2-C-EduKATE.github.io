@@ -24,6 +24,9 @@ jobs:
       - name: Move to the correct directory
         run: cd ./"landing page"
 
+      - name: Test
+        run: ls -a
+
       - name: Setup Node.js ⚙️ - Cache dependencies ⚡ - Install dependencies 🔧
         uses: ./.github/workflows/setup-node
 
@@ -35,12 +38,6 @@ jobs:
 
       - name: Build with Next.js 🏗️
         run: npm run build
-
-      - name: Create folder
-        run: mkdir test
-
-      - name: Test
-        run: ls -a
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
