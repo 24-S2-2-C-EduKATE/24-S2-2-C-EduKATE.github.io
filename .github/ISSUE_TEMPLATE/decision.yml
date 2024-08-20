@@ -1,0 +1,37 @@
+name: Decision
+description: Use this template to document a decision
+title: "[Decision] <Title of the decision>"
+labels:
+  - Decision
+projects:
+  - 24-S2-2-C-EduKATE/16
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Description
+        <Describe the background and context that led to this decision>
+
+        ## Context
+        <List the different options that were considered>
+
+        ## Rationale
+        <Explain the reasons behind choosing the selected option>
+
+        ## Impact 
+        <Discuss the potential impact and consequences of the decision>
+
+        ## Next Steps
+        <Outline the actions that need to be taken as a result of this decision>
+
+        ## References
+        <Include any relevant links or references>
+
+  - type: input
+    id: sign-off
+    attributes:
+      label: "Sign-off"
+      description: "Please type your name to indicate your sign-off on this decision"
+      placeholder: "Your Name"
+    validations:
+      required: true
