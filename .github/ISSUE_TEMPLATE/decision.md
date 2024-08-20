@@ -3,7 +3,6 @@ name: Decision
 about: Use this template to document a decision
 title: "[Decision] <Title of the decision>"
 labels: Decision
-projects: 24-S2-2-C-EduKATE/16
 ---
 ## Description
 Please provide a brief description of the decision.

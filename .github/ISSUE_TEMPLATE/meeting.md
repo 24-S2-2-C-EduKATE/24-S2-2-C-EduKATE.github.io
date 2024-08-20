@@ -3,7 +3,6 @@ name: Meeting
 about: Use this template to document a meeting
 title: "[Meeting] <Title of the meeting>"
 labels: Meeting
-projects: 24-S2-2-C-EduKATE/12
 ---
 ## Time
 Provide the date and time of the meeting.
