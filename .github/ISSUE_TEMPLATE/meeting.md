@@ -7,6 +7,23 @@ labels: Meeting
 ## Time
 Provide the date and time of the meeting.
 
+## Meeting Recorder
+@ 
+
+## Meeting Chair
+@ 
+
+## Attendees
+- [ ] Yi Wang
+- [ ] Syii Liu
+- [ ] Dong-Jhang Wu
+- [ ] Rifang Zhou
+- [ ] Finn McClusky
+- [ ] Wendi Shi
+- [ ] Wenjing Qi
+
+add more if needed
+
 ## Agenda
 List the topics or items to be discussed during the meeting.
 
