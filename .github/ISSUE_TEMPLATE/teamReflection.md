@@ -1,5 +1,5 @@
 ---
-name: Team Reflection
+name: Reflection - Team
 about: Use this template to document a team reflection
 title: "[Reflection] Weekx - <Title of the reflection>"
 labels: Reflection
