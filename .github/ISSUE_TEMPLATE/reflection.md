@@ -1,5 +1,5 @@
 ---
-name: Individual Reflection
+name: Reflection - Individual
 about: Use this template to document a personal reflection
 title: "[Reflection] Weekx - <Your Name>"
 labels: Reflection
