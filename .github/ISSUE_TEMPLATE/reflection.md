@@ -3,7 +3,6 @@ name: Individual Reflection
 about: Use this template to document a personal reflection
 title: "[Reflection] Weekx - <Your Name>"
 labels: Reflection
-reflection type: Individual Reflection
 ---
 ## Week in Review (Week X)
 
