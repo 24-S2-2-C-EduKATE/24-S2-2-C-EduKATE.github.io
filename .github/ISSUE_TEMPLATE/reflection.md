@@ -1,7 +1,7 @@
 ---
 name: Individual Reflection
 about: Use this template to document a personal reflection
-title: "[Reflection] Weekx - <Title of the reflection>"
+title: "[Reflection] Weekx - <Your Name>"
 labels: Reflection
 ---
 ## Week in Review (Week X)
