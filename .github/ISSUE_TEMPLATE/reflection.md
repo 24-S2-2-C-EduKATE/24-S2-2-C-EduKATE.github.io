@@ -68,6 +68,6 @@ labels: Reflection
 
 ## Additional Thoughts and Insights
 
-Additional Thoughts and Insights..... Around 100 words
+Additional Thoughts and Insights..... Around 100 words #xx (here raised the issue from, or delete if no) just # every issue about you ...
 
 
