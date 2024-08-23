@@ -23,6 +23,7 @@ labels: Feedback
 ## Review Context
 <!-- Specify where this feedback was reviewed -->
 - [ ] Group Meeting
+  - <!-- Insert issue link or reference, e.g., #123 or full URL -->
 - [ ] Other (please specify): ______________________
 
 ## Reviewed By
