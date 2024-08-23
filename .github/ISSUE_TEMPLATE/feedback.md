@@ -8,8 +8,11 @@ labels: Feedback
 ## From
 <!-- Describe the source of the feedback (e.g., client, shadow team, tutor) -->
 
-## Date of Feedback
-<!-- Enter the date when the feedback was received (e.g., YYYY-MM-DD) -->
+## Date Received
+<!-- Enter the date when the feedback was initially received (YYYY-MM-DD) -->
+
+## Date Reviewed
+<!-- Enter the date when the feedback was reviewed and assessed (YYYY-MM-DD) -->
 
 ## Category/Topic
 <!-- Specify the general area this feedback relates to -->
@@ -17,19 +20,31 @@ labels: Feedback
 ## Description
 <!-- Describe the content of the feedback -->
 
+## Review Context
+<!-- Specify where this feedback was reviewed -->
+- [ ] Group Meeting
+- [ ] Other (please specify): ______________________
+
 ## Reviewed By
 <!-- Name of the person or team who assessed this feedback -->
-- [ ] member 1
-- [ ] member 2
-- [ ] member 3
+- [ ] Yi Wang
+- [ ] Syii Liu
+- [ ] Dong-Jhang Wu
+- [ ] Rifang Zhou
+- [ ] Finn McClusky
+- [ ] Wendi Shi
+- [ ] Wenjing Qi
 
 ## Is this feedback useful?
 <!-- Select whether the feedback is useful or not -->
 - [ ] Yes
 - [ ] No
 
-### if yes,please briefly explain why:
+### If yes,please briefly explain why:
 <!-- Provide a short explanation for the decision -->
+
+### The decision to be logged
+<!-- If the feedback is agreed upon, record the decision summary here -->
 
 ### If no, please select the reason(s):
 - [ ] Not aligned with current goals or strategy
@@ -41,7 +56,3 @@ labels: Feedback
 - [ ] No constructive suggestions
 - [ ] Outside of our target market or user base
 - [ ] Other (please specify): ______________________
-
-## Action
-### please provide the decision to be logged
-<!-- If the feedback is agreed upon, record the decision summary here -->
