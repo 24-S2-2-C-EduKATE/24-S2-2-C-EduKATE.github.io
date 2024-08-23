@@ -4,7 +4,7 @@ about: Use this template to document a personal reflection
 title: "[Reflection] 24S2 Weekx - <Your Name>"
 labels: Reflection
 ---
-## Week in Review (Week X)
+## Week in Review
 
 ### Completed Tasks
 
