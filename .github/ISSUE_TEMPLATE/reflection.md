@@ -1,6 +1,6 @@
 ---
 name: Reflection - Individual
-about: Use this template to document a personal reflection
+about: Use this template to document a weekly personal reflection
 title: "[Reflection] 24S2 Weekx - <Your Name>"
 labels: Reflection
 ---
@@ -8,66 +8,66 @@ labels: Reflection
 
 ### Completed Tasks
 
-- xxxCompleted tasks 1 title #51 (here raised the issue from, or delete if no)
+- xxxCompleted tasks 1 title (# issue related)
 
-  xxxCompleted tasks 1 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxCompleted tasks 2 title #xx (here raised the issue from, or delete if no)
+- xxxCompleted tasks 2 title (# issue related)
 
-  xxxCompleted tasks 2 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxCompleted tasks 3 title #xx (here raised the issue from, or delete if no)
+- xxxCompleted tasks 3 title (# issue related)
 
-  xxxCompleted tasks 3 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
 
 ### Performance Evaluation
 
 #### What Went Well
-- xxxWent well 1 title #xx (here raised the issue from, or delete if no)
+- xxxWent well 1 title (# issue related)
 
-  xxxWent well 1 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxWent well 2 title #xx (here raised the issue from, or delete if no)
+- xxxWent well 2 title (# issue related)
+  
+  xxx details
 
-  xxxWent well 2 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- xxxWent well 3 title (# issue related)
 
-- xxxWent well 3 title #xx (here raised the issue from, or delete if no)
-
-  xxxWent well 3 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
 
 #### Areas for Improvement
-- xxxAreas for Improvement 1 title #xx (here raised the issue from, or delete if no)
+- xxxAreas for Improvement 1 title (# issue related)
 
-  xxxAreas for Improvement 1 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxAreas for Improvement 2 title #xx (here raised the issue from, or delete if no)
+- xxxAreas for Improvement 2 title (# issue related)
 
-  xxxAreas for Improvement 2 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxAreas for Improvement 3 title #xx (here raised the issue from, or delete if no)
+- xxxAreas for Improvement 3 title (# issue related)
 
-  xxxAreas for Improvement 3 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
 
 ## Next Week's Plan
 
 ### Goals
-- xxxGoals 1 title #xx (here raised the issue from, or delete if no)
+- xxxGoals 1 title (# issue related)
 
-  xxxGoals 1 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
 
-- xxxGoals 2 title #xx (here raised the issue from, or delete if no)
+- xxxGoals 2 title (# issue related)
 
-  xxxGoals 2 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-- xxxGoals 3 title #xx (here raised the issue from, or delete if no)
-
-  xxxGoals 3 detail xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  xxx details
+  
+- xxxGoals 3 title (# issue related)
+  
+  xxx details
 
 ## Additional Thoughts and Insights
 
-Additional Thoughts and Insights..... Around 100 words #xx (here raised the issue from, or delete if no) just # every issue about you ...
+xxx Around 100 words, # issue related ... Make sure the whole reflection is more than 200words.
 
 
