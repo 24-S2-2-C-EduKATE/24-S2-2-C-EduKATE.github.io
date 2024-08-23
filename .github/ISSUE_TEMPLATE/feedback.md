@@ -6,16 +6,25 @@ labels: Feedback
 ---
 
 ## From
-<!-- Describe the source of the feedback (e.g., client, shadow team, tutor) -->
+- [ ] Shadow
+- [ ] Self
+- [ ] Tutor
+- [ ] Client
+- [ ] Tutor
+
+## Topic
+<!-- Specify the general area this feedback relates to -->
+- [ ] PROJECT OUTPUT
+- [ ] DECISION-MAKING
+- [ ] TEAM WORK
+- [ ] STAKEHOLDER ENGAGEMENT
+- [ ] REFLECTION
 
 ## Date Received
 <!-- Enter the date when the feedback was initially received (YYYY-MM-DD) -->
 
 ## Date Reviewed
 <!-- Enter the date when the feedback was reviewed and assessed (YYYY-MM-DD) -->
-
-## Category/Topic
-<!-- Specify the general area this feedback relates to -->
 
 ## Description
 <!-- Describe the content of the feedback -->
