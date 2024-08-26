@@ -23,9 +23,6 @@ labels: Feedback
 ## Date Received
 <!-- Enter the date when the feedback was initially received (YYYY-MM-DD) -->
 
-## Date Reviewed
-<!-- Enter the date when the feedback was reviewed and assessed (YYYY-MM-DD) -->
-
 ## Description
 <!-- Describe the content of the feedback -->
 
@@ -37,17 +34,17 @@ labels: Feedback
 
 ## Reviewed By
 <!-- Name of the person or team who assessed this feedback -->
-- [ ] Yi Wang
-- [ ] Syii Liu
-- [ ] Dong-Jhang Wu
-- [ ] Rifang Zhou
-- [ ] Finn McClusky
-- [ ] Wendi Shi
-- [ ] Wenjing Qi
+- [X] Yi Wang
+- [X] Syii Liu
+- [X] Dong-Jhang Wu
+- [X] Rifang Zhou
+- [X] Finn McClusky
+- [X] Wendi Shi
+- [X] Wenjing Qi
 
 ## Is this feedback useful?
 <!-- Select whether the feedback is useful or not -->
-- [ ] Yes
+- [X] Yes
 - [ ] No
 
 ### If yes,please briefly explain why:
