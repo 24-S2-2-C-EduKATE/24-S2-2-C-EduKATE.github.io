@@ -32,6 +32,9 @@ xxx
 ### New Skills and Knowledge
 xxx
 
+### Useful Feedback Received
+xxx
+
 ## Plans for Next Week
 ### Goals for Next Week
 
