@@ -7,21 +7,21 @@ labels: Reflection
 # Week in Reflection
 
 ## Major Tasks Completed
-#### title (#issue): 
+#### title #issue: 
 detailed
   
-#### title (#issue): 
+#### title #issue: 
 detailed
   
-#### title (#issue): 
+#### title #issue: 
 detailed
   
 ## Challenges and Team Dynamics
 ### Challenges Encountered
-#### title (#issue): 
+#### title #issue: 
 detailed
 
-#### title (#issue): 
+#### title #issue: 
 detailed
   
 ### Team Collaboration
@@ -38,13 +38,13 @@ xxx
 ## Plans for Next Week
 ### Goals for Next Week
 
-#### title (#issue): 
+#### title #issue: 
 detailed
 
-#### title (#issue): 
+#### title #issue: 
 detailed
 
-#### title (#issue): 
+#### title #issue: 
 detailed
 
 ## Conclusion
