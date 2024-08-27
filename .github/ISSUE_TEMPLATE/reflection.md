@@ -8,15 +8,15 @@ labels: Reflection
 
 ### Completed Tasks
 
-- xxxCompleted tasks 1 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxCompleted tasks 2 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxCompleted tasks 3 title (# issue related)
+- title #issue:
 
   xxx details
 
@@ -24,29 +24,29 @@ labels: Reflection
 ### Performance Evaluation
 
 #### What Went Well
-- xxxWent well 1 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxWent well 2 title (# issue related)
+- title #issue:
   
   xxx details
 
-- xxxWent well 3 title (# issue related)
+- title #issue:
 
   xxx details
 
 
 #### Areas for Improvement
-- xxxAreas for Improvement 1 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxAreas for Improvement 2 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxAreas for Improvement 3 title (# issue related)
+- title #issue:
 
   xxx details
 
@@ -54,15 +54,15 @@ labels: Reflection
 ## Next Week's Plan
 
 ### Goals
-- xxxGoals 1 title (# issue related)
+- title #issue:
 
   xxx details
 
-- xxxGoals 2 title (# issue related)
+- title #issue:
 
   xxx details
   
-- xxxGoals 3 title (# issue related)
+- title #issue:
   
   xxx details
 
