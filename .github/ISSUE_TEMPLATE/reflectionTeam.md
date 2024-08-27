@@ -1,14 +1,50 @@
 ---
 name: Reflection - Team
 about: Use this template to document a team reflection
-title: "[Reflection] Weekx - <Title of the reflection>"
+title: "[Reflection] 24S2Weekx - Group Reflection"
 labels: Reflection
 ---
-## From feedback #48 
-### Response(How can we improve) 
-xxxx
+# Week in Reflection
 
-### Reflection
-xxxx
+## Major Tasks Completed
+#### title (#issue): 
+detailed
+  
+#### title (#issue): 
+detailed
+  
+#### title (#issue): 
+detailed
+  
+## Challenges and Team Dynamics
+### Challenges Encountered
+#### title (#issue): 
+detailed
+
+#### title (#issue): 
+detailed
+  
+### Team Collaboration
+xxx
+
+
+## Learning and Insights
+### New Skills and Knowledge
+xxx
+
+## Plans for Next Week
+### Goals for Next Week
+
+#### title (#issue): 
+detailed
+
+#### title (#issue): 
+detailed
+
+#### title (#issue): 
+detailed
+
+## Conclusion
+xxx
 
 
