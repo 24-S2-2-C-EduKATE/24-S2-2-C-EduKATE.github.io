@@ -1,30 +1,73 @@
 ---
 name: Reflection - Individual
-about: Use this template to document a personal reflection
-title: "[Reflection] Weekx - <Your Name>"
+about: Use this template to document a weekly personal reflection
+title: "[Reflection] 24S2 Weekx - <Your Name>"
 labels: Reflection
 ---
-## Week in Review (Week X)
+## Week in Review
 
 ### Completed Tasks
-1. 
-2. 
+
+- title #issue:
+
+  xxx details
+
+- title #issue:
+
+  xxx details
+
+- title #issue:
+
+  xxx details
+
 
 ### Performance Evaluation
+
 #### What Went Well
-1. 
-2. 
+- title #issue:
+
+  xxx details
+
+- title #issue:
+  
+  xxx details
+
+- title #issue:
+
+  xxx details
+
+
 #### Areas for Improvement
-1. 
-2. 
+- title #issue:
+
+  xxx details
+
+- title #issue:
+
+  xxx details
+
+- title #issue:
+
+  xxx details
+
 
 ## Next Week's Plan
 
 ### Goals
-1. 
-2. 
+- title #issue:
+
+  xxx details
+
+- title #issue:
+
+  xxx details
+  
+- title #issue:
+  
+  xxx details
 
 ## Additional Thoughts and Insights
 
+xxx Around 100 words, # issue related ... Make sure the whole reflection is more than 200words.
 
 
