@@ -11,6 +11,7 @@
     "type": "page",
     "display": "hidden"
   },
+  "weekly-reports": "Weekly Reports",
   "-- More": {
     "type": "separator",
     "title": "More"
