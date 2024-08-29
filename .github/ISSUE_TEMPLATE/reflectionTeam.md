@@ -1,7 +1,7 @@
 ---
 name: Reflection - Team
 about: Use this template to document a team reflection
-title: "[Reflection] 24S2Weekx - Group Reflection"
+title: "[Group Reflection] 24S2Weekx - Weekly Report & Reflection"
 labels: Reflection
 ---
 # Week in Reflection
