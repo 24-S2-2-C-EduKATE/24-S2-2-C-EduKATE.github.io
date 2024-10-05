@@ -19,6 +19,6 @@
       "@components/*": ["components/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/docs/weekly-reports/week-8.mdx", "pages/docs/weekly-reports/week-7.mdx", "pages/index.mdx", "pages/docs/weekly-reports/week-6.mdx"],
   "exclude": ["node_modules"]
 }
