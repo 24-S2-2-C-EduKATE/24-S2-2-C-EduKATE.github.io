@@ -3,7 +3,10 @@ name: Decision
 about: Use this template to document a decision
 title: "[Decision] <Title of the decision>"
 labels: Decision
+assignees: ''
+
 ---
+
 ## Description
 Please provide a brief description of the decision.
 

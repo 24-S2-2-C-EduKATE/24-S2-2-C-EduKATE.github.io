@@ -3,7 +3,10 @@ name: Reflection - Individual
 about: Use this template to document a weekly personal reflection
 title: "[Reflection] 24S2 Weekx - <Your Name>"
 labels: Reflection
+assignees: ''
+
 ---
+
 ## Week in Review
 
 ### Completed Tasks
@@ -69,5 +72,3 @@ labels: Reflection
 ## Additional Thoughts and Insights
 
 xxx Around 100 words, # issue related ... Make sure the whole reflection is more than 200words.
-
-
