@@ -11,22 +11,21 @@ assignees: ''
 Provide the date and time of the meeting.
 
 ## Attendees
+- [ ] Siyi Liu
 - [ ] Yi Wang
-- [ ] Syii Liu
 - [ ] Dong-Jhang Wu
 - [ ] Rifang Zhou
 - [ ] Wenhui Shi
 - [ ] Wenjing Qi
 
-add more if needed
 
 ## Agenda
 List the topics or items to be discussed during the meeting.
 
 ## Stands-ups
-- Yi Wang
+- Siyi Liu
 
-- Syii Liu
+- Yi Wang
   
 - Dong-Jhang Wu
   
@@ -44,14 +43,15 @@ Document the key points, decisions, and discussions that took place during the m
 List any action items or tasks that were assigned during the meeting, along with the responsible person and due dates.
 
 ## 8-Hour Work Tracking
+
+- Siyi Liu
+
 - Yi Wang
 
-- Syii Liu
-  
 - Dong-Jhang Wu
   
 - Rifang Zhou
   
-- Wendi Shi
+- Wenhui Shi
   
 - Wenjing Qi
