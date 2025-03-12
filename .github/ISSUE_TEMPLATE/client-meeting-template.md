@@ -1,5 +1,5 @@
 ---
-name: Meeting
+name: client Meeting
 about: Use this template to document a meeting
 title: "[Meeting] <Title of the meeting>"
 labels: Meeting
