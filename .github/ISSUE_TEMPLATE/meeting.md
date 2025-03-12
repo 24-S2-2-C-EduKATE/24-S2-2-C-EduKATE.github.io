@@ -15,7 +15,7 @@ Provide the date and time of the meeting.
 - [ ] Syii Liu
 - [ ] Dong-Jhang Wu
 - [ ] Rifang Zhou
-- [ ] Wendi Shi
+- [ ] Wenhui Shi
 - [ ] Wenjing Qi
 
 add more if needed
@@ -32,7 +32,7 @@ List the topics or items to be discussed during the meeting.
   
 - Rifang Zhou
   
-- Wendi Shi
+- Wenhui Shi
   
 - Wenjing Qi
 
